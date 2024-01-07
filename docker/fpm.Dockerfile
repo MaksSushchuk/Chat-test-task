@@ -26,7 +26,7 @@ WORKDIR /var/www
 
 COPY . .
 
-RUN composer install 
+
 
 
 
